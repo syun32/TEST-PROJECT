@@ -6,3 +6,4 @@ commit-3 in master
 commit-4 in master
 commit-3 in rebase
 commit-4 in rebase
+commit-5 in master
