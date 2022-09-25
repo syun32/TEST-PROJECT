@@ -3,3 +3,4 @@ commit-2
 commit-1 in rebase
 commit-2 in rebase
 commit-3 in master
+commit-4 in master
